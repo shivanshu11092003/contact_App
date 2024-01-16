@@ -1,0 +1,1 @@
+Designed and implemented a user sign-up page in Android Studio integrated with Firebase, ensuring secure data storage for user registration. Created a seamless and intuitive experience for users during the sign-up process.
